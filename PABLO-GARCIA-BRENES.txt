@@ -3,6 +3,4 @@ adfsd
 ;ldkjasdf
 
 
-asdfa
-
-cambios linux
+El push de Patiño
