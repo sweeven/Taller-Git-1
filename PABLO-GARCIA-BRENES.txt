@@ -4,6 +4,3 @@ adfsd
 
 
 El push de Patiño
-Esto es una prueba
-
-Revertir
